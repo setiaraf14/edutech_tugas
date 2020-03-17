@@ -1,0 +1,39 @@
+.container-fluid{
+    background-color: rgb(255, 214, 0);
+    width: 100%;
+    justify-content: space-between;
+}
+
+.container-fluid h1{
+   font-size:80px;
+}
+
+.container-fluid h2{
+    font-size:60px;
+    font-weight:bold;
+ }
+
+ .container-fluid h6{
+    color:blue;
+ } 
+
+.ytb{
+    margin-top:20px;
+}
+
+.sekat{
+    width:50px;
+    height: 5px;
+    background-color:blue;
+    margin:auto;
+}
+
+.sponsor{
+    background-color: white;
+}
+
+.kotak{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+}
